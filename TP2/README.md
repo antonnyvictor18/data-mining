@@ -1,6 +1,7 @@
 # Favorita Store Sales Prediction
 
 This project aims to predict sales for the thousands of product families sold at Favorita stores located in Ecuador. The dataset includes training data with dates, store and product information, promotion details, and sales numbers. Additional files provide supplementary information useful for building predictive models.
+Kaggle Competition: https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
 ## File Descriptions and Data Field Information
 
